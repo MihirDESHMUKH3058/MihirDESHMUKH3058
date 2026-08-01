@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **4th-year B.E. student** in Electronics & Telecommunication at **GH Raisoni College of Engineering, Nagpur** (CGPA: **8.08**). I focus on building real systems end-to-end — from secure cloud infrastructure and CI/CD pipelines to full-stack web apps and AI/IoT platforms.
+I'm a **4th-year B.E. student** in Electronics & Telecommunication at **GH Raisoni College of Engineering, Nagpur** . I focus on building real systems end-to-end — from secure cloud infrastructure and CI/CD pipelines to full-stack web apps and AI/IoT platforms.
 
 - 🔭 Currently working on **cloud-native architectures**, **DevOps automation**, and **AI-driven applications**
 - 🌱 Deepening skills in **AWS**, **Kubernetes**, **FastAPI**, and **React**
